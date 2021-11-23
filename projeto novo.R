@@ -7,3 +7,5 @@ library(tidyverse)
 # versão 7
 mutate()
 rename()
+join()
+select()
